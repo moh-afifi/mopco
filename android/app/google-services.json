@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856847305178",
+    "project_id": "mopco-3a0ce",
+    "storage_bucket": "mopco-3a0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856847305178:android:18ea64a2c016e21d4c58e3",
+        "android_client_info": {
+          "package_name": "com.mopco.mopco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856847305178-hve1aupnv0vkih5sfuff2p12v6cl1in1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIedDkZ2ZXiLwBLv-Xo9FtRIo1CTCXnss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856847305178-hve1aupnv0vkih5sfuff2p12v6cl1in1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
